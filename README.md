@@ -146,6 +146,10 @@ sudo sh ./VBoxLinuxAdditions.run
 
 Congratulations! You've installed Kali Linux in VirtualBox. You can now leverage its powerful suite of pre-installed security tools for various cybersecurity tasks and experiments within a secure and isolated environment.
 
+### Disclaimer
+
+_Depending on your intended use, it's vital to secure your Kali Linux virtual machine appropriately. If used for activities like Capture The Flag (CTF) competitions or connecting to external servers, ensure robust security measures are in place. After a fresh installation, implementing additional security best practices is essential, especially given its potential use for conducting attacks. Whether setting up Kali as a "throw-away pentesting machine" for short-term engagements or as a "long-term use OS" for regular activities, both methods require distinct security considerations. It's crucial to research and apply these measures to safeguard your system. Remember, engaging in unauthorized or malicious activities, including hacking, is strictly forbidden and illegal. Always adhere to ethical standards and responsible usage._
+
 ## Install Ubuntu Linux Virtual Machine
 
 Installing Ubuntu on VirtualBox is straightforward and user-friendly, often considered as easy as, if not easier than, installing Windows. You can refer to this guide for more detailed instructions: [How to run an Ubuntu Desktop virtual machine using VirtualBox 7 | Ubuntu](https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview).
